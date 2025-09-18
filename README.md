@@ -33,7 +33,7 @@ O projeto está organizado em duas classes principais:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/jdecdomingues/DesafioEstacionamentoDotNet.git](https://github.com/jdecdomingues/DesafioEstacionamentoDotNet.git)
+    git clone https://github.com/jdecdomingues/DesafioEstacionamentoDotNet.git
     ```
 
 2.  **Navegue até o diretório do projeto:**
